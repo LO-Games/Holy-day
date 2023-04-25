@@ -2,6 +2,10 @@
 
 <p>This is an educational adventure game that teaches the characteristics of the holidays and traditions of the Jewish people. The game illustrates the various elements of the Israeli holidays while training existing skills and acquiring new skills.</p>
 
+![Holy-day](https://github.com/LO-Games/Holy-day/blob/main/Assets/Images/GameScreenshot.PNG)
+
+קישור להקלטה של המשחק ביוטיוב : https://youtu.be/sFebYmIeC74
+
 <h2>Getting Started</h2>
 
 <p>To play the game, you will need an internet connection to access the server where the game is hosted. The game is a single player game intended for the whole family.</p>
